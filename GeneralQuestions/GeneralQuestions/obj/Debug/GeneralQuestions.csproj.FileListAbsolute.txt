@@ -1,0 +1,6 @@
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\bin\Debug\GeneralQuestions.exe.config
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\bin\Debug\GeneralQuestions.exe
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\bin\Debug\GeneralQuestions.pdb
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\obj\Debug\GeneralQuestions.csprojResolveAssemblyReference.cache
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\obj\Debug\GeneralQuestions.exe
+C:\Documents\GitHub\Test\GeneralQuestions\GeneralQuestions\obj\Debug\GeneralQuestions.pdb
