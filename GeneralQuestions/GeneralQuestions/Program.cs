@@ -41,14 +41,15 @@ namespace GeneralQuestions
         {
             try
             {
-                using (StreamWriter sw = new StreamWriter("C:\\Documents\\primes.txt"))
+                using (StreamWriter sw = new StreamWriter("C:\\Documents\\primes1.txt"))
                 {
-                    var primes = new List<long>();
+                    var primes = new List<int>();
                     primes.Add(2);
-                    for (long j = 3; j <= 2000000; j += 2)
+                    for (int j = 3; j <= 2000000; j += 2)
                     {
+                        var currPrimes = primes.Take(primes.Count / 2);
                         bool flag = false;
-                        foreach (long x in primes.ToList())
+                        foreach (long x in currPrimes)
                         {
                             if (j % x == 0)
                             {
